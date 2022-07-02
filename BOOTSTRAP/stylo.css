@@ -1,0 +1,76 @@
+/* TODOS LOS H1 */
+.h1 {
+    background-color:cornflowerblue;
+    text-align: center;
+
+}
+
+/* CARD  */
+.card-group {
+    color: blue;
+
+}
+.card-body{
+    background-color:black;
+}
+/* FIN CARD */
+
+/* CONTAINER */
+.container {
+    background-color: black;
+    border-style: double;color: white
+}
+/* FIN CONTAINER */
+
+/* TEXT PAGINA HOME */
+.text-bg-primary {
+    text-align: center;
+}
+/* FIN TEXT PAGINA HOME */
+
+/* H4 HOME */
+.h4 {
+    padding: 1;
+}
+/* FIN H4 HOME */
+
+/* TODOS LOS H2 */
+
+.h2C{
+    text-align: center;
+    color: red;
+
+}
+/* FIN TODOS LOS H2 */
+
+.carousel-caption .h5 {
+    color:forestgreen
+}
+.carousel-caption .P{
+    color:red
+}
+body {
+    margin: 0; 
+    background-image: url("./rainbow-wood-android-mobile-phone-wallpaper-hd-wallpaper-1850064672.jpg");
+}
+.h2 {
+    background-color: red;
+    text-align: center;
+}
+.form-check{
+    color:red
+}
+.form{
+    color:black;
+    background-color: tomato;
+    padding: 3px;
+}
+.row{
+    color: red;
+}
+.mb-3{
+    color: white;
+}
+.nav {
+    background-color: black;
+}
