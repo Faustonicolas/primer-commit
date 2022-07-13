@@ -1,0 +1,83 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+/* TODOS LOS H1 */
+.h1 {
+    background-color:cornflowerblue;
+    text-align: center;
+
+}
+
+/* CARD  */
+.card-group {
+    color: blue;
+
+}
+.card-body{
+    background-color:black;
+}
+/* FIN CARD */
+
+/* CONTAINER */
+.container {
+    background-color: black;
+    border-style: double;color: white
+}
+/* FIN CONTAINER */
+
+/* TEXT PAGINA HOME */
+.text-bg-primary {
+    text-align: center;
+}
+/* FIN TEXT PAGINA HOME */
+
+/* H4 HOME */
+.h4 {
+    padding: 1;
+}
+/* FIN H4 HOME */
+
+/* TODOS LOS H2 */
+
+.h2C{
+    text-align:start;
+    color: red;
+}
+/* FIN TODOS LOS H2 */
+
+.carousel-caption .h5 {
+    color:forestgreen
+}
+.carousel-caption .P{
+    color:white
+}
+    
+.h2 {
+    background-color: red
+    text-align: center;
+}
+.form-check{
+    color: red
+}
+.form{
+    color: red
+    padding: 3px;
+    
+}
+
+.mb-3{
+    color:red
+}
+
+
+.text-bg-primary{
+    text-align: start;
+    color: red;
+    }
+
+
+.color{
+    color: red;
+    background-color:black
+}
+.navbar a:hover{
+    background-color: red;
+}
